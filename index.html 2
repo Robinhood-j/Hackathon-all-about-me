@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Robinhood Waweru | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>Robinhood Waweru</h1>
+    <p>Faith-driven developer passionate about tech and transformation.</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      Hi! I’m <strong>Robinhood Waweru</strong>, a visionary tech enthusiast with a heart for purpose-driven innovation. With a Certificate and Diploma in Computer Science from Chuka University, I’ve built a strong foundation in web development, proposal writing, and digital strategy.
+    </p>
+    <p>
+      My passion lies in blending <strong>faith, technology, and entrepreneurship</strong> to create solutions that uplift communities. Whether I’m writing business proposals, optimizing PCs, or modeling sports outcomes, I approach every challenge with clarity, creativity, and collaboration.
+    </p>
+    <p>
+      I’m currently building my personal portfolio to showcase my journey, invite mentorship, and connect with developers who share my vision. Let’s turn ideas into impact — together.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Technical & Strategic Skills</h2>
+    <ul>
+      <li>Business Proposal Writing (Software Engineering Focus)</li>
+      <li>Git & GitHub Workflow Management</li>
+      <li>Python Programming (Foundational Level)</li>
+      <li>Disk Cleanup & PC Optimization</li>
+      <li>Codespaces & Cloud-Based Development</li>
+      <li>Portfolio & Personal Branding Strategy</li>
+      <li>Analytical Thinking & Sports Outcome Modeling</li>
+    </ul>
+  </section>
+
+  <section id="faith">
+    <h2>Spiritual Foundation</h2>
+    <p>
+      My journey is deeply rooted in faith, prayer, and purpose. I believe that every step forward is guided by divine provision and grace.
+    </p>
+    <blockquote>
+      <em>“The poor and needy search for water, but there is none; their tongues are parched with thirst. But I the Lord will answer them; I, the God of Israel, will not forsake them. I will make rivers flow on barren heights, and springs within the valleys. I will turn the desert into pools of water, and the parched ground into flowing springs.”</em>
+      <br>— <strong>Isaiah 41:17–18</strong>
+    </blockquote>
+  </section>
+
+  <section id="education">
+    <h2>Educational Background</h2>
+    <p>
+      I studied at <strong>Chuka University</strong>, where I earned both a <strong>Certificate</strong> and <strong>Diploma in Computer Science</strong>. My academic journey laid the foundation for my passion in technology and innovation.
+    </p>
+    <p>
+      Beyond academics, I specialize in writing <strong>business proposals</strong> that are software engineering-oriented — blending strategic thinking with real-world impact. My proposals are rooted in community needs and designed to inspire scalable digital solutions.
+    </p>
+    <p>
+      While I may not yet have an extensive software engineering skill set, I carry the <em>backend of the reality</em>: the vision, the logic, and the drive to see these businesses come to life. What I need are collaborators — developers who carry the code — to help turn these ideas into working platforms.
+    </p>
+    <p>
+      I believe in the power of <strong>mentorship</strong>, especially through programs like <strong>PLP</strong>, to bridge the gap between vision and execution. The future I see is one where these businesses become a reality, built through faith, teamwork, and purpose-driven innovation.
+    </p>
+    <a href="assets/cv/Robinhood_cv.pdf" download>📄 Download My CV</a>
+  </section>
+
+  <section id="interests">
+    <h2>Interests & Aspirations</h2>
+    <p>
+      I’m excited by data analysis, backend development, and building tools that empower communities—like Matatu Connect.
+    </p>
+    <p>
+      I’m deeply passionate about transforming my <strong>business proposals</strong> into real, impactful software solutions. While I’m still growing in my coding skills, I carry the strategic vision and clarity needed to build platforms that serve communities and solve real problems.
+    </p>
+    <p>
+      I believe that <strong>Power Learn Project (PLP)</strong> offers the mentorship, resources, and collaborative environment I need to bridge the gap between vision and execution. With the right team and guidance, I’m confident that these ideas will evolve into thriving digital businesses.
+    </p>
+    <p>
+      <strong>Let’s build the future together.</strong> If you’re a developer, mentor, or visionary who believes in purpose-driven tech, I’d love to connect and collaborate. Together, we can turn ideas into impact.
+    </p>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <ul>
+      <li><a href="https://github.com/Robinhood-j/matatu-connect">Matatu Connect</a> — A platform for matatu drivers and owners to connect and find jobs.</li>
+      <li><a href="https://github.com/Robinhood-j/sports-predictor">Sports Predictor</a> — A logic-based outcome modeling tool for sports analysis.</li>
+    </ul>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <form action="https://formspree.io/f/yourformid" method="POST">
+      <input type="text" name="name" placeholder="Your Name" required>
+      <input type="email" name="email" placeholder="Your Email" required>
+      <textarea name="message" placeholder="Your Message" required></textarea>
+      <button type="submit">Send Message</button>
+    </form>
+  </section>
+<style>
+  body {
+    background-color: pink;
+  }
+</style>
+  <footer>
+    <p>© 2025 Robinhood Waweru. Built with faith and code.</p>
+  </footer>
+</body>
+</html>
