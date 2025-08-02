@@ -18,6 +18,7 @@ This portfolio was built using **HTML and CSS** to highlight:
 
 Visit the live version here:  
 👉 [https://robinhood-j.github.io/robinhood-portfolio](https://robinhood-j.github.io/robinhood-portfolio)
+
 ## 📁 File Structure
 
 ├── index.html          # Main webpage ├── style.css           # Custom styling ├── README.md           # Project documentation
