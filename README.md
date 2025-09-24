@@ -46,7 +46,7 @@ I'm actively seeking:
 ## 📬 Contact
 
 - 📧 Email: robinhoodwaweru18@gmail.com
-- 🐦 X: @jacintarobby
+- 🐦 X: @hoodofglory
 
 ---
 
